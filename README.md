@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 libry.github.io
 ===============
 
-Personal website
+my personal webpage for self-learning - HTML/CSS/RUBY/OWL
+
 =======
-# libry.github.io
->>>>>>> 2f791d96026abb21bbc9cc8585a02948a5822bb2
